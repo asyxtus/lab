@@ -1103,7 +1103,7 @@ function PLSummary({ data }) {
 // CREDENTIALS  (change these to your own)
 // ─────────────────────────────────────────────
 const USERS = [
-  { username: "admin",    password: "LabAdmin@2025",  role: "Administrator" },
+  { username: "admin",    password: "TotalCare@237",  role: "Administrator" },
   { username: "labmgr",   password: "LabMgr@2025",    role: "Lab Manager"   },
   { username: "finance",  password: "Finance@2025",   role: "Finance Officer"},
 ];
